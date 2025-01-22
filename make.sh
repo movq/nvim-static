@@ -8,5 +8,5 @@ cd work
 mv neovim/build/PREFIX nvim-static
 tar -czf nvim-static-0.10.3.tar.gz nvim-static
 cd ..
-mv work/nvim-static.tar.gz .
+mv work/nvim-static-0.10.3.tar.gz .
 rm -rf work
